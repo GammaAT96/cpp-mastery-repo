@@ -1,4 +1,4 @@
-#include <iostream>
+/* #include <iostream>
 
 int main(){
     std::cout<<"uday bhan"<<std::endl;
@@ -17,6 +17,18 @@ int main(){
     
    
 }
+*/
+#include<iostream>
+int main(){
+    std::cout<<"vaathi"<<std::endl;
+    std::cout<<"illuminati"<<std::endl;
+    std::cout<<"armadam"<<std::endl;
+    std::cout<<"naa ready"<<std::endl;
+    std::cout<<"Bloodysweet"<<std::endl;
+    std::cout<<"Hukum"<<std::endl;
+    std::cout<<"Kurchi Mardhepeti"<<std::endl;
+    std::cout<<"Botamama"<<std::endl;
+    std::cout<<"Aasa kooda"<<std::endl;
+    std::cout<<"Vibe"<<std::endl;
 
-
-
+}
